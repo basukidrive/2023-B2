@@ -21,7 +21,7 @@
     <bounds
         x="72"
         y="192"
-        width="193"
+        width="145"
         height="85"/>
     <archimateElement
         xsi:type="archimate:Stakeholder"
@@ -31,9 +31,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-cb97c4a082594fd5a4b12a5a3e15954d">
     <bounds
-        x="336"
+        x="276"
         y="192"
-        width="217"
+        width="145"
         height="85"/>
     <archimateElement
         xsi:type="archimate:Stakeholder"
@@ -43,9 +43,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-09cae38f14fa4f4c942d32d0d06eee6b">
     <bounds
-        x="624"
+        x="480"
         y="192"
-        width="181"
+        width="133"
         height="85"/>
     <archimateElement
         xsi:type="archimate:Stakeholder"
@@ -194,5 +194,17 @@
     <archimateElement
         xsi:type="archimate:Goal"
         href="Goal_id-80cebbc446604b4da6ba1945306ae3c0.xml#id-80cebbc446604b4da6ba1945306ae3c0"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-32cef19fee354a0aa408e9c0cb46364f">
+    <bounds
+        x="666"
+        y="192"
+        width="133"
+        height="85"/>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_id-0aec1a9740d1482daae1090538e88d7b.xml#id-0aec1a9740d1482daae1090538e88d7b"/>
   </children>
 </archimate:ArchimateDiagramModel>
