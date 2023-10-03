@@ -91,7 +91,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f05ef47d205b431ebf7d4453b8e032b8">
     <bounds
-        x="648"
+        x="660"
         y="336"
         width="133"
         height="73"/>
@@ -175,7 +175,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a250191b832946c6a0a7f6b324aff381">
     <bounds
-        x="648"
+        x="654"
         y="456"
         width="145"
         height="73"/>
@@ -187,7 +187,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d2ff498ca61b474e80945b512383edb1">
     <bounds
-        x="648"
+        x="654"
         y="564"
         width="145"
         height="73"/>
