@@ -8,8 +8,8 @@
       id="id-78fddbc6c3354900be10d64e3f95a922"
       targetConnections="id-4d515461280d48a29027d2d0e5eaf557">
     <bounds
-        x="119"
-        y="617"
+        x="124"
+        y="425"
         width="164"
         height="37"/>
     <archimateElement
@@ -30,8 +30,8 @@
           href="CompositionRelationship_id-177fc9d9089040f8afd1f0035e9eb45f.xml#id-177fc9d9089040f8afd1f0035e9eb45f"/>
     </sourceConnections>
     <bounds
-        x="119"
-        y="533"
+        x="124"
+        y="341"
         width="164"
         height="37"/>
     <archimateElement
@@ -43,8 +43,8 @@
       id="id-0bb1323573a7446a9a855a6a2586cc09"
       targetConnections="id-79bcdfeca9d7474ead9aa80b6783f103">
     <bounds
-        x="336"
-        y="617"
+        x="341"
+        y="425"
         width="164"
         height="37"/>
     <archimateElement
@@ -74,8 +74,8 @@
           href="CompositionRelationship_id-fd8ad37ad0bd4f58b4fdd44cf8c93833.xml#id-fd8ad37ad0bd4f58b4fdd44cf8c93833"/>
     </sourceConnections>
     <bounds
-        x="451"
-        y="533"
+        x="456"
+        y="341"
         width="164"
         height="37"/>
     <archimateElement
@@ -114,8 +114,8 @@
           href="CompositionRelationship_id-d0e4f38fd52d460c973b7ac1b6a61655.xml#id-d0e4f38fd52d460c973b7ac1b6a61655"/>
     </sourceConnections>
     <bounds
-        x="451"
-        y="449"
+        x="456"
+        y="257"
         width="164"
         height="37"/>
     <archimateElement
@@ -135,8 +135,8 @@
           href="CompositionRelationship_id-b2d53660e115458186def6db749e8f00.xml#id-b2d53660e115458186def6db749e8f00"/>
     </sourceConnections>
     <bounds
-        x="451"
-        y="264"
+        x="456"
+        y="72"
         width="164"
         height="54"/>
     <archimateElement
@@ -157,8 +157,8 @@
           href="CompositionRelationship_id-266a716ed8ab466d8b38fc5e19ba68b5.xml#id-266a716ed8ab466d8b38fc5e19ba68b5"/>
     </sourceConnections>
     <bounds
-        x="451"
-        y="365"
+        x="456"
+        y="173"
         width="164"
         height="37"/>
     <archimateElement
@@ -170,8 +170,8 @@
       id="id-e25acb8c6c3c43a3b291def7620acc8a"
       targetConnections="id-9162efb4dfab481ba64f2b7dc195f87d">
     <bounds
-        x="545"
-        y="617"
+        x="550"
+        y="425"
         width="164"
         height="37"/>
     <archimateElement
@@ -183,8 +183,8 @@
       id="id-87d4f8f51c1142aaacc7408de91f445c"
       targetConnections="id-3cb8d6a037514fad858e07b9411e5e85">
     <bounds
-        x="780"
-        y="533"
+        x="785"
+        y="341"
         width="164"
         height="37"/>
     <archimateElement
