@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3c Business Process Decomposition Diagram"
-    id="id-8189be154be141448017b58125353d67"/>
+    id="id-8189be154be141448017b58125353d67">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-533f7ab8edee49e9badfdc8e9bd77dcb">
+    <bounds
+        x="252"
+        y="192"
+        width="625"
+        height="241"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-08ed80c483f3423bbd9dd86877964c57.xml#id-08ed80c483f3423bbd9dd86877964c57"/>
+  </children>
+</archimate:ArchimateDiagramModel>
