@@ -12,6 +12,18 @@
         y="108"
         width="589"
         height="229"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-89e3d5f81ce24613ada8e93737c852aa">
+      <bounds
+          x="432"
+          y="156"
+          width="133"
+          height="61"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_id-81257f7e7eeb4ae2adbfda5ee6c17b6b.xml#id-81257f7e7eeb4ae2adbfda5ee6c17b6b"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-4b50df32432f4c6ab1ffe2ba77b30201.xml#id-4b50df32432f4c6ab1ffe2ba77b30201"/>
@@ -25,6 +37,18 @@
         y="372"
         width="589"
         height="217"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-a040f1bdd78a4af8a6164069ed74a63f">
+      <bounds
+          x="420"
+          y="120"
+          width="133"
+          height="73"/>
+      <archimateElement
+          xsi:type="archimate:BusinessFunction"
+          href="BusinessFunction_id-7ea9fd5790e94f91be6330254ca05699.xml#id-7ea9fd5790e94f91be6330254ca05699"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-7db820f342dd43e0bde4bbe8d44b31e2.xml#id-7db820f342dd43e0bde4bbe8d44b31e2"/>
