@@ -1,14 +1,14 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Default View"
+    name="Default View (test)"
     id="id-5988d6e9a4aa4b168b0abec44747871b">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-713f7b86baf54abaae02f2769ecdda9e"
       targetConnections="id-7b3b2ce56757421fbbd862e9352f68eb">
     <bounds
-        x="360"
+        x="432"
         y="163"
         width="120"
         height="55"/>
