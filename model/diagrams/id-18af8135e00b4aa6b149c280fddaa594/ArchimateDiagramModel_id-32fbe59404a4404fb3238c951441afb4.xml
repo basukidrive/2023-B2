@@ -1,4 +1,54 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Principles"
-    id="id-32fbe59404a4404fb3238c951441afb4"/>
+    id="id-32fbe59404a4404fb3238c951441afb4">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-49a64da01e20492981168eec69f34d51">
+    <bounds
+        x="168"
+        y="48"
+        width="505"
+        height="73"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-0fc6a0644c5c46178fb14b91343e06e1.xml#id-0fc6a0644c5c46178fb14b91343e06e1"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c5e6f4e5902f41ba9d06ab551553b97b">
+    <bounds
+        x="72"
+        y="168"
+        width="193"
+        height="85"/>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_id-ce7a0d4d7dfa4c5aaf99fd1d790ebe89.xml#id-ce7a0d4d7dfa4c5aaf99fd1d790ebe89"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-cb97c4a082594fd5a4b12a5a3e15954d">
+    <bounds
+        x="336"
+        y="168"
+        width="217"
+        height="85"/>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_id-eec1e1f1da4a45c5ac6c2e311c57efb9.xml#id-eec1e1f1da4a45c5ac6c2e311c57efb9"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-09cae38f14fa4f4c942d32d0d06eee6b">
+    <bounds
+        x="624"
+        y="168"
+        width="181"
+        height="85"/>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_id-822a6c43041b4d70a1137c0dcc431afd.xml#id-822a6c43041b4d70a1137c0dcc431afd"/>
+  </children>
+</archimate:ArchimateDiagramModel>
