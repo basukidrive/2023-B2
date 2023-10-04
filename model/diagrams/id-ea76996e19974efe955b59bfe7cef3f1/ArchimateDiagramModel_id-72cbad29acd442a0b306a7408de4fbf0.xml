@@ -93,8 +93,44 @@
     <bounds
         x="360"
         y="17"
-        width="133"
-        height="140"/>
+        width="181"
+        height="212"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-8afd2c85066f49eebe1e264407ac691b">
+      <bounds
+          x="12"
+          y="24"
+          width="157"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:DataObject"
+          href="DataObject_id-1663c535651142eeabdb6c9725b511e1.xml#id-1663c535651142eeabdb6c9725b511e1"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-87ccb218308941bc98c143a2d6ea66a5">
+      <bounds
+          x="12"
+          y="84"
+          width="157"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:DataObject"
+          href="DataObject_id-c1f9f8370cb34b5c8ac791b7cd2ad7c8.xml#id-c1f9f8370cb34b5c8ac791b7cd2ad7c8"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-d86f895266b94a49955cf4d53cd91e6a">
+      <bounds
+          x="12"
+          y="144"
+          width="157"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:DataObject"
+          href="DataObject_id-f4c3eb5a34d244f192931a9b4c97059d.xml#id-f4c3eb5a34d244f192931a9b4c97059d"/>
+    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -102,7 +138,7 @@
       name="Tabel (Data Warehouse)"
       textAlignment="1">
     <bounds
-        x="516"
+        x="552"
         y="17"
         width="133"
         height="140"/>
@@ -113,7 +149,7 @@
       name="Data Mart (Subject Area)"
       textAlignment="1">
     <bounds
-        x="672"
+        x="732"
         y="17"
         width="133"
         height="140"/>
@@ -124,10 +160,46 @@
       name="Informasi"
       textAlignment="1">
     <bounds
-        x="828"
+        x="924"
         y="17"
-        width="133"
-        height="140"/>
+        width="145"
+        height="296"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-5f2c232cf7904d02aba526a78c7ede37">
+      <bounds
+          x="12"
+          y="24"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessObject"
+          href="BusinessObject_id-de307849810a45289d8a63b25bea5277.xml#id-de307849810a45289d8a63b25bea5277"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-9db38f7ad2c94412a1a3da6d684ee105">
+      <bounds
+          x="12"
+          y="144"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessObject"
+          href="BusinessObject_id-b64146de770042d8a23f33cbce1fea55.xml#id-b64146de770042d8a23f33cbce1fea55"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-f147d51c3b3046d78c0ca04f305deae0">
+      <bounds
+          x="12"
+          y="84"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessObject"
+          href="BusinessObject_id-1afe3c08519e43d0a342243df7487fed.xml#id-1afe3c08519e43d0a342243df7487fed"/>
+    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -135,10 +207,22 @@
       name="Dashboard"
       textAlignment="1">
     <bounds
-        x="984"
+        x="1080"
         y="17"
-        width="133"
+        width="157"
         height="140"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-906e553ed6434cc5b47fd7f31b7776d6">
+      <bounds
+          x="12"
+          y="24"
+          width="133"
+          height="73"/>
+      <archimateElement
+          xsi:type="archimate:BusinessObject"
+          href="BusinessObject_id-44f52e37d77d4e978750aa5d3396a7b6.xml#id-44f52e37d77d4e978750aa5d3396a7b6"/>
+    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -146,9 +230,33 @@
       name="Pengguna Dashboard/report"
       textAlignment="1">
     <bounds
-        x="1128"
-        y="24"
-        width="133"
-        height="140"/>
+        x="1248"
+        y="17"
+        width="145"
+        height="164"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-c3e7de8e3f3b40e688bcf360ff1adf31">
+      <bounds
+          x="12"
+          y="96"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessRole"
+          href="BusinessRole_id-25fd2c79618f46bf87f123babd8a1a4a.xml#id-25fd2c79618f46bf87f123babd8a1a4a"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-8bd5fc4b6efa458ca06e0703f1692914">
+      <bounds
+          x="12"
+          y="36"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessActor"
+          href="BusinessActor_id-436e46b7302142b388e3ddac01b64d77.xml#id-436e46b7302142b388e3ddac01b64d77"/>
+    </children>
   </children>
 </archimate:ArchimateDiagramModel>
