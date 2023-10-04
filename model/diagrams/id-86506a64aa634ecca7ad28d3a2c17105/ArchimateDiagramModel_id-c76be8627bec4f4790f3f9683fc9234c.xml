@@ -320,7 +320,7 @@
         id="id-f0e18ed36ff24eca9ee413470932fe1a"
         targetConnections="id-24c317203d384b68916976faf0242b49">
       <bounds
-          x="264"
+          x="276"
           y="36"
           width="205"
           height="61"/>
@@ -333,7 +333,7 @@
         id="id-4569866a0a2d4a13bc2d58ce0f005172"
         targetConnections="id-56b46f3d515a4855a307c4aa42879a2b">
       <bounds
-          x="528"
+          x="540"
           y="36"
           width="181"
           height="61"/>
