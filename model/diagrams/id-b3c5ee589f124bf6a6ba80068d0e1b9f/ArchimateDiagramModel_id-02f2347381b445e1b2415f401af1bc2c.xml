@@ -1,4 +1,30 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3 Data Center"
-    id="id-02f2347381b445e1b2415f401af1bc2c"/>
+    id="id-02f2347381b445e1b2415f401af1bc2c">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-1c8907c50ae841139aaab6d030a496a8">
+    <bounds
+        x="108"
+        y="120"
+        width="253"
+        height="61"/>
+    <archimateElement
+        xsi:type="archimate:Device"
+        href="Device_id-3e5d0f8a941540b9b6065b0d7494fa04.xml#id-3e5d0f8a941540b9b6065b0d7494fa04"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-bbf6dd8d3c2f4dc185e807234630fd03">
+    <bounds
+        x="552"
+        y="120"
+        width="253"
+        height="61"/>
+    <archimateElement
+        xsi:type="archimate:Device"
+        href="Device_id-f073a2440cf846298af50cacf6886745.xml#id-f073a2440cf846298af50cacf6886745"/>
+  </children>
+</archimate:ArchimateDiagramModel>
