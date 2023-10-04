@@ -494,16 +494,6 @@
         source="id-936df4b5bbee44419cc1ea0647fe064c"
         target="id-be49ca3fd0374a94ba829620ce0bb854">
       <bendpoints
-          startX="24"
-          startY="-39"
-          endX="19"
-          endY="69"/>
-      <bendpoints
-          startX="24"
-          startY="-51"
-          endX="19"
-          endY="57"/>
-      <bendpoints
           startY="-51"
           endX="-5"
           endY="57"/>
@@ -517,14 +507,12 @@
         source="id-936df4b5bbee44419cc1ea0647fe064c"
         target="id-e1fa4fba1ae34c429910e6dba322450f">
       <bendpoints
-          startX="24"
           startY="-39"
-          endX="-150"
+          endX="-174"
           endY="69"/>
       <bendpoints
-          startX="24"
           startY="-51"
-          endX="-150"
+          endX="-174"
           endY="57"/>
       <bendpoints
           startX="120"
@@ -541,9 +529,8 @@
         source="id-936df4b5bbee44419cc1ea0647fe064c"
         target="id-27bfb91842b14b80868c1bb3af99d54d">
       <bendpoints
-          startX="24"
           startY="-51"
-          endX="168"
+          endX="144"
           endY="66"/>
       <bendpoints
           startX="-144"
