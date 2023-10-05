@@ -355,19 +355,14 @@
             endY="81"/>
         <bendpoints
             startX="108"
-            startY="9"
+            startY="10"
             endX="-72"
-            endY="81"/>
+            endY="72"/>
         <bendpoints
             startX="108"
-            startY="-75"
+            startY="-74"
             endX="-72"
-            endY="-3"/>
-        <bendpoints
-            startX="108"
-            startY="-75"
-            endX="-72"
-            endY="-3"/>
+            endY="-12"/>
         <archimateRelationship
             xsi:type="archimate:RealizationRelationship"
             href="RealizationRelationship_id-b94c5e37e0044789bb7951f14d60af3a.xml#id-b94c5e37e0044789bb7951f14d60af3a"/>
@@ -392,15 +387,15 @@
           source="id-f1a65f4742554f14ad2909e62a941bf3"
           target="id-49e734ae3ff245e69009e905beb7197e">
         <bendpoints
-            startX="72"
+            startX="60"
             startY="-3"
-            endX="-108"
-            endY="-3"/>
+            endX="-120"
+            endY="-12"/>
         <bendpoints
-            startX="84"
+            startX="96"
             startY="-3"
-            endX="-96"
-            endY="-3"/>
+            endX="-84"
+            endY="-12"/>
         <archimateRelationship
             xsi:type="archimate:RealizationRelationship"
             href="RealizationRelationship_id-9d92ab7965ac46d69f02414c738df1e3.xml#id-9d92ab7965ac46d69f02414c738df1e3"/>
@@ -433,7 +428,7 @@
             startX="108"
             startY="-147"
             endX="-72"
-            endY="-3"/>
+            endY="-12"/>
         <archimateRelationship
             xsi:type="archimate:RealizationRelationship"
             href="RealizationRelationship_id-9ed358394fed45d59bce365ff8b7165d.xml#id-9ed358394fed45d59bce365ff8b7165d"/>
@@ -714,7 +709,7 @@
           x="24"
           y="36"
           width="120"
-          height="55"/>
+          height="73"/>
       <archimateElement
           xsi:type="archimate:BusinessObject"
           href="BusinessObject_id-c14ea539a5744d42afb9508a2feee07a.xml#id-c14ea539a5744d42afb9508a2feee07a"/>
