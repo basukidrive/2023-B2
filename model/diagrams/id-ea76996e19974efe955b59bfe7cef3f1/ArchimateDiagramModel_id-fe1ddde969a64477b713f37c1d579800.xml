@@ -680,7 +680,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c8f312a2a010457795452b21a43cb4d6"
-      targetConnections="id-affd147eebe04bc4aa698097e3cc5174"
+      targetConnections="id-4dd9ee89bfd2478a8bafb9437d90701e"
       type="1">
     <bounds
         x="732"
@@ -848,7 +848,7 @@
       type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-affd147eebe04bc4aa698097e3cc5174"
+        id="id-4dd9ee89bfd2478a8bafb9437d90701e"
         source="id-4c13c98d4c054554895b7c4cb46ea9ca"
         target="id-c8f312a2a010457795452b21a43cb4d6">
       <archimateRelationship
