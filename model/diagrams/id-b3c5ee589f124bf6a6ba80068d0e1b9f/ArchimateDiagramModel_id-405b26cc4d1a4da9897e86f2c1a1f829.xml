@@ -383,7 +383,7 @@
       id="id-f44133614f0541869c2b728b3ef55cde">
     <bounds
         x="228"
-        y="1056"
+        y="996"
         width="169"
         height="97"/>
     <archimateElement
@@ -394,12 +394,24 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b7b79e0c2f4b45879d330d9a3b1232e6">
     <bounds
-        x="492"
-        y="1056"
+        x="461"
+        y="996"
         width="169"
         height="97"/>
     <archimateElement
         xsi:type="archimate:Device"
         href="Device_id-b6fda561b68246cfb4b5cb681ca4bced.xml#id-b6fda561b68246cfb4b5cb681ca4bced"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-597c726e510d49a2a5f0e2f5c1069438">
+    <bounds
+        x="682"
+        y="996"
+        width="169"
+        height="97"/>
+    <archimateElement
+        xsi:type="archimate:Device"
+        href="Device_id-fba91349f4c7460c85e0898bb8384c2a.xml#id-fba91349f4c7460c85e0898bb8384c2a"/>
   </children>
 </archimate:ArchimateDiagramModel>
