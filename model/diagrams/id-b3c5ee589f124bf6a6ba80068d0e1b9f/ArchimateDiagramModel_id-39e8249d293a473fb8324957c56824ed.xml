@@ -61,16 +61,16 @@
           href="CompositionRelationship_id-93e07ab9514d4210af8466be019c2eb0.xml#id-93e07ab9514d4210af8466be019c2eb0"/>
     </sourceConnections>
     <bounds
-        x="72"
+        x="120"
         y="72"
-        width="1513"
-        height="505"/>
+        width="1453"
+        height="493"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-0e54a6e3d96741aa8b10fba94f6b25f5"
         targetConnections="id-3c5e29ca4d914a2ba7191f9a774bc92a">
       <bounds
-          x="72"
+          x="24"
           y="36"
           width="685"
           height="97"/>
@@ -92,7 +92,7 @@
           id="id-46efa29a7b2c4bf18e9a9ebd69f7b8c7"
           fillColor="#80ff00">
         <bounds
-            x="444"
+            x="480"
             y="24"
             width="120"
             height="55"/>
@@ -122,7 +122,7 @@
         id="id-4b18ba6c33e84a11a07252fcb8c138fe"
         targetConnections="id-50441381d71d4c76ba7feb93f0e64a3f">
       <bounds
-          x="72"
+          x="24"
           y="264"
           width="685"
           height="97"/>
@@ -131,7 +131,7 @@
           id="id-945ca740f04c4054a6db19c707ca642a"
           fillColor="#80ff00">
         <bounds
-            x="48"
+            x="276"
             y="24"
             width="120"
             height="55"/>
@@ -148,7 +148,7 @@
         id="id-f573ce6e825d4ce4b5cb8ccfc1817f30"
         targetConnections="id-1fe3125c92ee4a88852aeb4c95eb1004">
       <bounds
-          x="72"
+          x="24"
           y="144"
           width="685"
           height="97"/>
@@ -170,7 +170,7 @@
           id="id-fb5bd760f5f24a759897b27f8a792e7a"
           fillColor="#80ff00">
         <bounds
-            x="456"
+            x="480"
             y="24"
             width="120"
             height="55"/>
@@ -187,7 +187,7 @@
         id="id-4f91c158a2a9400b82a66a1a5cc70e47"
         targetConnections="id-123e7a68da7d49bc980a8306f4cc9bf5">
       <bounds
-          x="792"
+          x="744"
           y="276"
           width="685"
           height="97"/>
@@ -213,7 +213,7 @@
         id="id-577a1615934b46a8bda3c8e4a937f483"
         targetConnections="id-79c3baac5e3a49bfbb3ba934e96beea6">
       <bounds
-          x="792"
+          x="744"
           y="156"
           width="685"
           height="97"/>
@@ -239,7 +239,7 @@
         id="id-371b5971ee5242b2b31f0d0e2a30af58"
         targetConnections="id-b2825dbd1ea04d0894d5fa2e3207b7f6">
       <bounds
-          x="792"
+          x="744"
           y="36"
           width="685"
           height="97"/>
@@ -248,7 +248,7 @@
           id="id-4e6b0e8aa22b4361983182641845c8a5"
           fillColor="#80ff00">
         <bounds
-            x="288"
+            x="456"
             y="24"
             width="120"
             height="55"/>
@@ -261,7 +261,7 @@
           id="id-20d229b3c1764202a17e1ad1928e2109"
           fillColor="#80ff00">
         <bounds
-            x="96"
+            x="108"
             y="24"
             width="120"
             height="55"/>
