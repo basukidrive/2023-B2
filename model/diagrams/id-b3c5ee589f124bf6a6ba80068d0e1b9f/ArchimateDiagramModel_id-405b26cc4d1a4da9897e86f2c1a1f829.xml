@@ -183,10 +183,15 @@
             source="id-7fce93faa0334460bccd5adf9cd3883d"
             target="id-deec898e1f5d4374800e6e6cd68849bc">
           <bendpoints
-              startX="156"
-              startY="-15"
-              endX="-19"
+              startX="182"
+              startY="-13"
+              endX="7"
               endY="225"/>
+          <bendpoints
+              startX="182"
+              startY="-109"
+              endX="7"
+              endY="129"/>
           <archimateRelationship
               xsi:type="archimate:ServingRelationship"
               href="ServingRelationship_id-5ef5a2d683054f208b5f64275612718c.xml#id-5ef5a2d683054f208b5f64275612718c"/>
@@ -233,10 +238,15 @@
             source="id-b146ce4dc31e4ccf86115d1f843051ae"
             target="id-deec898e1f5d4374800e6e6cd68849bc">
           <bendpoints
-              startX="-168"
-              startY="-15"
-              endX="-19"
+              startX="-142"
+              startY="-13"
+              endX="7"
               endY="225"/>
+          <bendpoints
+              startX="-142"
+              startY="-109"
+              endX="7"
+              endY="129"/>
           <archimateRelationship
               xsi:type="archimate:ServingRelationship"
               href="ServingRelationship_id-9d70b31396544b838369ba0ec2b4a283.xml#id-9d70b31396544b838369ba0ec2b4a283"/>
@@ -283,10 +293,15 @@
             source="id-46ac4a0850364d75a0e37112d8b2c1d2"
             target="id-deec898e1f5d4374800e6e6cd68849bc">
           <bendpoints
-              startX="156"
-              startY="-3"
-              endX="-19"
+              startX="182"
+              startY="-1"
+              endX="7"
               endY="417"/>
+          <bendpoints
+              startX="182"
+              startY="-193"
+              endX="7"
+              endY="225"/>
           <archimateRelationship
               xsi:type="archimate:ServingRelationship"
               href="ServingRelationship_id-ff88f8b1399743c183f1f4c02938d9d2.xml#id-ff88f8b1399743c183f1f4c02938d9d2"/>
@@ -356,7 +371,7 @@
       targetConnections="id-d3a468bfd4004b50ab2eae65468fcec2 id-ba25eb7758db4072b5d15cefd4449868 id-fb353edeabc44d52949edfcc9f8b691d id-78a952dd818c4cfcafb98b1a62dcba08 id-9809e8a29a5a4cbdb542c512f2337f27">
     <bounds
         x="629"
-        y="406"
+        y="408"
         width="120"
         height="55"/>
     <archimateElement
