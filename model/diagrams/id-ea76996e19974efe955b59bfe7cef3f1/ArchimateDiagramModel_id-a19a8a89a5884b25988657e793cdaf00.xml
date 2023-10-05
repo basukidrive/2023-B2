@@ -52,7 +52,7 @@
           x="192"
           y="60"
           width="120"
-          height="61"/>
+          height="73"/>
       <archimateElement
           xsi:type="archimate:BusinessObject"
           href="BusinessObject_id-715477608bc34e768fc29c956186af1e.xml#id-715477608bc34e768fc29c956186af1e"/>
@@ -66,7 +66,7 @@
           x="360"
           y="60"
           width="120"
-          height="55"/>
+          height="73"/>
       <archimateElement
           xsi:type="archimate:BusinessObject"
           href="BusinessObject_id-1f3f5511eac3413d915ebd29b5dd0cbc.xml#id-1f3f5511eac3413d915ebd29b5dd0cbc"/>
