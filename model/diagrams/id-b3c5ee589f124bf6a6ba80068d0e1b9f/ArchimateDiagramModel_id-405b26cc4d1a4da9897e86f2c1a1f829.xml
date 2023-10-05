@@ -339,15 +339,20 @@
           source="id-fc48e36de153479ebdebe5e4d1122b53"
           target="id-4d10aa0d5cf14e578256f1003ca0617f">
         <bendpoints
-            startX="-130"
-            startY="-6"
-            endX="182"
-            endY="174"/>
+            startX="-128"
+            startY="-4"
+            endX="184"
+            endY="176"/>
         <bendpoints
-            startX="-130"
-            startY="-150"
-            endX="182"
-            endY="30"/>
+            startX="-128"
+            startY="-76"
+            endX="184"
+            endY="104"/>
+        <bendpoints
+            startX="-128"
+            startY="-148"
+            endX="184"
+            endY="32"/>
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_id-62991fcbc7934e79a401c006051b9044.xml#id-62991fcbc7934e79a401c006051b9044"/>
