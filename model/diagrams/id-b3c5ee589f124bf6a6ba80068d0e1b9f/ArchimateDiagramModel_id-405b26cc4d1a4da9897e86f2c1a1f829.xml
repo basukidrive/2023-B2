@@ -183,10 +183,15 @@
             source="id-7fce93faa0334460bccd5adf9cd3883d"
             target="id-deec898e1f5d4374800e6e6cd68849bc">
           <bendpoints
-              startX="156"
-              startY="-15"
-              endX="-19"
-              endY="225"/>
+              startX="182"
+              startY="-13"
+              endX="7"
+              endY="227"/>
+          <bendpoints
+              startX="182"
+              startY="-109"
+              endX="7"
+              endY="131"/>
           <archimateRelationship
               xsi:type="archimate:ServingRelationship"
               href="ServingRelationship_id-5ef5a2d683054f208b5f64275612718c.xml#id-5ef5a2d683054f208b5f64275612718c"/>
@@ -233,10 +238,15 @@
             source="id-b146ce4dc31e4ccf86115d1f843051ae"
             target="id-deec898e1f5d4374800e6e6cd68849bc">
           <bendpoints
-              startX="-168"
-              startY="-15"
-              endX="-19"
-              endY="225"/>
+              startX="-142"
+              startY="-1"
+              endX="7"
+              endY="215"/>
+          <bendpoints
+              startX="-142"
+              startY="-97"
+              endX="7"
+              endY="119"/>
           <archimateRelationship
               xsi:type="archimate:ServingRelationship"
               href="ServingRelationship_id-9d70b31396544b838369ba0ec2b4a283.xml#id-9d70b31396544b838369ba0ec2b4a283"/>
@@ -259,24 +269,24 @@
             source="id-2b38cda2340249ae8ba4fdf4def1ba54"
             target="id-deec898e1f5d4374800e6e6cd68849bc">
           <bendpoints
-              startX="-166"
-              startY="-25"
-              endX="-17"
-              endY="251"/>
+              startX="-94"
+              startY="-1"
+              endX="55"
+              endY="275"/>
           <bendpoints
-              startX="-166"
-              startY="-73"
-              endX="-17"
-              endY="203"/>
+              startX="-142"
+              startY="-1"
+              endX="7"
+              endY="275"/>
           <bendpoints
-              startX="-166"
-              startY="-121"
-              endX="-17"
-              endY="155"/>
+              startX="-142"
+              startY="-133"
+              endX="7"
+              endY="143"/>
           <bendpoints
-              startX="-166"
+              startX="-142"
               startY="-217"
-              endX="-17"
+              endX="7"
               endY="59"/>
           <archimateRelationship
               xsi:type="archimate:ServingRelationship"
@@ -324,10 +334,15 @@
             source="id-46ac4a0850364d75a0e37112d8b2c1d2"
             target="id-deec898e1f5d4374800e6e6cd68849bc">
           <bendpoints
-              startX="156"
-              startY="-3"
-              endX="-19"
-              endY="417"/>
+              startX="182"
+              startY="-1"
+              endX="7"
+              endY="419"/>
+          <bendpoints
+              startX="182"
+              startY="-193"
+              endX="7"
+              endY="227"/>
           <archimateRelationship
               xsi:type="archimate:ServingRelationship"
               href="ServingRelationship_id-ff88f8b1399743c183f1f4c02938d9d2.xml#id-ff88f8b1399743c183f1f4c02938d9d2"/>
@@ -356,15 +371,20 @@
           source="id-fc48e36de153479ebdebe5e4d1122b53"
           target="id-4d10aa0d5cf14e578256f1003ca0617f">
         <bendpoints
-            startX="-130"
-            startY="-6"
-            endX="182"
-            endY="174"/>
+            startX="-128"
+            startY="-4"
+            endX="184"
+            endY="164"/>
         <bendpoints
-            startX="-130"
-            startY="-150"
-            endX="182"
-            endY="30"/>
+            startX="-128"
+            startY="-76"
+            endX="184"
+            endY="92"/>
+        <bendpoints
+            startX="-128"
+            startY="-136"
+            endX="184"
+            endY="32"/>
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_id-62991fcbc7934e79a401c006051b9044.xml#id-62991fcbc7934e79a401c006051b9044"/>
