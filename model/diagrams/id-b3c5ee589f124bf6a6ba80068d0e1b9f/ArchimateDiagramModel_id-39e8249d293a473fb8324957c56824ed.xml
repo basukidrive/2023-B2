@@ -348,6 +348,18 @@
           xsi:type="archimate:Device"
           href="Device_id-e119279b4ae84bafaf805ae6086ab296.xml#id-e119279b4ae84bafaf805ae6086ab296"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-daefe56ecff84164bf33e48c836b8e42">
+      <bounds
+          x="12"
+          y="420"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Device"
+          href="Device_id-8c8b4c5ddb6b452aaa21b1a03826696c.xml#id-8c8b4c5ddb6b452aaa21b1a03826696c"/>
+    </children>
     <archimateElement
         xsi:type="archimate:ApplicationFunction"
         href="ApplicationFunction_id-c3793ef8b7fd4c8f8d0e226ddb70a41e.xml#id-c3793ef8b7fd4c8f8d0e226ddb70a41e"/>
