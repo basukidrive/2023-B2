@@ -53,6 +53,7 @@
         id="id-27aec05b955341b6983db8be77dd9634"
         targetConnections="id-d2922c2778d349aab2b8ff361b79b121 id-cb8708f7711e41cc987ec0cfe807882a id-b2b6a1a80ba541e8a7850fc1e8303e3d id-37fc67278ccf401b9543ec6de2763172 id-752a37f0f763491eaf78e1994aeddd9f id-280c71e7f3724340832b93a3b0d445ba"
         textAlignment="1"
+        fillColor="#ffff00"
         type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
